@@ -15,10 +15,15 @@ For the CPU's, the two most common cycle rates are 2.0-2.5 GHz and 3.0-3.5 GHz.
 ## Hard Drive Size
 ![](https://github.com/tribbens/r-studio-badge/blob/main/hd_hist.png)
 
-The most common hard drive sizes are 128-256 GB and 256-512 GB. Very few hard drives were larger than 512 GB.
+The most common hard drive sizes are 128-256 GB and 256-512 GB.
 
 ## GPU and CPU Cores
-
 ![](https://github.com/tribbens/r-studio-badge/blob/main/gpu_cores_hist.png)
 ![](https://github.com/tribbens/r-studio-badge/blob/main/cpu_cores_hist.png)
 
+For GPU cores, most fall in the range of 0-2 cores. For CPU cores, the most common ranges are 0-2 cores and 2-4 cores.
+
+## Operating System
+![](https://github.com/tribbens/r-studio-badge/blob/main/os_barchart.png)
+
+For operating system, MacOS is easily the most common followed by Windows. Linux was a distant third. I found this result surprising given how prevalent Windows computers are.
