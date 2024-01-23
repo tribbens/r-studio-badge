@@ -27,3 +27,6 @@ For GPU cores, most fall in the range of 0-2 cores. For CPU cores, the most comm
 ![](https://github.com/tribbens/r-studio-badge/blob/main/os_barchart.png)
 
 For operating system, MacOS is easily the most common followed by Windows. Linux was a distant third. I found this result surprising given how prevalent Windows computers are.
+
+## GPU Description
+There is not a great way to display the data on GPU types. After reviewing the data, a wide variety of companies are represented including Intel, Nvidia, AMD, and Apple.
